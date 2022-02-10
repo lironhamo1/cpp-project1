@@ -1,0 +1,18 @@
+﻿  Animal.cpp
+  Bat.cpp
+  Giraffe.cpp
+  Test.cpp
+c:\users\liron\desktop\עבודה 3 סי\project5\test.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  Tiger.cpp
+  Zoo.cpp
+c:\users\liron\desktop\עבודה 3 סי\project5\zoo.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\liron\desktop\עבודה 3 סי\project5\zoo.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\liron\desktop\עבודה 3 סי\project5\zoo.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\liron\desktop\עבודה 3 סי\project5\zoo.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\liron\desktop\עבודה 3 סי\project5\zoo.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\liron\desktop\עבודה 3 סי\project5\zoo.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\liron\desktop\עבודה 3 סי\project5\zoo.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\liron\desktop\עבודה 3 סי\project5\zoo.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\liron\desktop\עבודה 3 סי\project5\zoo.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project6.vcxproj -> C:\Users\liron\source\repos\Project6\Debug\Project6.exe
