@@ -26,7 +26,7 @@ int main() {
 				cout << "for tiger: 1\n for giraffe: 2\n for bat:3\n ";
 				cin >> type;
 				if (type > 0 && type < 4) {//check if the value is corect
-					cout << "enter the name,nickname, age,department of the animal and food per day\n";
+					cout << "enter the name(string),nickname(string), age(float),department of the animal(string) and food per day(float)\n";
 					cin >> name >> nickname >> age >> department >> FoodPerDay;
 					if (type == 1) {//build a obj of tiger
 						cout << "enter the max speed of the tiger\n";
